@@ -1,0 +1,5 @@
+{
+	"name": "Alan Kimo",
+	"age": 29,
+	"sex": "Male"
+}
